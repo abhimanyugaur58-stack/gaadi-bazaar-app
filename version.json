@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "app": "com.gaadibazaar.tycoon",
+  "versionCode": 5,
+  "versionName": "0.3.1",
+  "gameVersion": "0.3",
+  "minSdk": 24,
+  "released": "2026-10-14",
+  "apk": {
+    "file": "GaadiBazaar-v0.3.1.apk",
+    "size": 143303,
+    "sha256": "690403367c6a2a69b63ef98b3e301e869e6f70dcae62533ca9ce4e763f2961e4",
+    "signer": "e5fc66fdca29d14c01485a826bc7db615de4d4024061c1f4bcb894486311dbff",
+    "commit": "3728513d48354142f8cb14959f2b221ed864694c",
+    "urls": [
+      "https://abhimanyugaur58-stack.github.io/gaadi-bazaar-app/apk/GaadiBazaar-v0.3.1.apk",
+      "https://cdn.jsdelivr.net/gh/abhimanyugaur58-stack/gaadi-bazaar-app@3728513d48354142f8cb14959f2b221ed864694c/apk/GaadiBazaar-v0.3.1.apk"
+    ]
+  },
+  "permissions": [],
+  "notes": {
+    "hi": [
+      "ऐप का अंदरूनी हिस्सा अब नए और ज़्यादा भरोसेमंद तरीके से बनता है। खेल में कोई बदलाव नहीं, सेव वैसा ही रहेगा।"
+    ],
+    "en": [
+      "The app's inner part is now built in a newer, more reliable way. Nothing changes in the game, and your save stays as it is."
+    ]
+  },
+  "page": "https://abhimanyugaur58-stack.github.io/gaadi-bazaar-app/"
+}
